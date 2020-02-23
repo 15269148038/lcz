@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a739a1ed-9889-463d-861b-1c1ff2314f0e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/3.GIF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/efc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/efc.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/favicon.ico" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,6 +32,12 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\wamp\www\homepage" />
+      <recent name="F:\wamp\www\homepage\imgs" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -55,7 +60,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1578836989980</updated>
-      <workItem from="1578836991069" duration="2251000" />
+      <workItem from="1578836991069" duration="2852000" />
+      <workItem from="1581300887026" duration="634000" />
+      <workItem from="1581305317916" duration="38000" />
+      <workItem from="1582452775811" duration="4717000" />
     </task>
     <servers />
   </component>
@@ -67,7 +75,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
